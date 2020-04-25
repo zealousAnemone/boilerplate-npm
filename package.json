@@ -10,6 +10,7 @@
 	"engines": {
 		"node": "8.11.2"
 	},
+	"author": "Veronica Stork",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
